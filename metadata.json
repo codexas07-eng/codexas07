@@ -1,0 +1,6 @@
+{
+  "name": "Shomu AI - Smart Assistant & Bot Platform",
+  "description": "Shomu AI portal powered by Asif Boss featuring automated FamPay UPI payments, instant bot app manager, Super Admin dashboard, and live control center.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
